@@ -1,0 +1,10 @@
+delete {
+	app.css,
+	app.test.js
+	index.css
+	logo.svg
+	reportWebVitals.js / serviceWorker.js
+	setupTests.js 
+}
+what pakage i installed 
+yarn add styled-components react-router-dom apollo-boost @apollo/react-hooks graphql
